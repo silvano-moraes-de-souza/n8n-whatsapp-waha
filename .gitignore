@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+# Runtime state: sessions, databases and logs never go to git
+n8n_data/
+postgres_data/
+redis_data/
+waha_sessions/
+*.sqlite
+*.sqlite3*
+*.db
+*.db-*
+*.rdb
+*.log
