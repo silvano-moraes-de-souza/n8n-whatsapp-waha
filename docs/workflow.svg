@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1736.8" height="669.2" viewBox="0 0 1736.8 669.2" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<rect width="1736.8" height="669.2" fill="#f7f7f5"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#6b7280"/></marker></defs>
+<path d="M220.0,70.0 C250.0,70.0 280.40000000000003,70.0 310.40000000000003,70.0" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<path d="M490.40000000000003,70.0 C520.4000000000001,70.0 550.8000000000001,70.0 580.8000000000001,70.0" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<path d="M760.8000000000001,70.0 C790.8000000000001,70.0 821.2,70.0 851.2,70.0" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<path d="M1024.4,331.2 C1024.4,271.2 941.2,160.0 941.2,100.0" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5" fill="none"/>
+<path d="M1031.2,70.0 C1061.2,70.0 1216.4,70.0 1246.4,70.0" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<path d="M1426.4,70.0 C1456.4,70.0 1486.8,70.0 1516.8,70.0" stroke="#6b7280" stroke-width="2" fill="none" marker-end="url(#a)"/>
+<path d="M795.6,331.2 C795.6,271.2 941.2,160.0 941.2,100.0" stroke="#9ca3af" stroke-width="2" stroke-dasharray="6 5" fill="none"/>
+<rect x="40.0" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="40.0" y="40.0" width="8" height="60" rx="4" fill="#7c3aed"/>
+<text x="60.0" y="67.0" font-size="14" font-weight="600" fill="#111827">Webhook</text>
+<text x="60.0" y="88.0" font-size="12" fill="#7c3aed">Trigger</text>
+<rect x="310.40000000000003" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<rect x="310.40000000000003" y="40.0" width="8" height="60" rx="4" fill="#2a78d6"/>
+<text x="330.40000000000003" y="67.0" font-size="14" font-weight="600" fill="#111827">DADOS</text>
+<text x="330.40000000000003" y="88.0" font-size="12" fill="#2a78d6">Transform</text>
+<rect x="580.8000000000001" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<rect x="580.8000000000001" y="40.0" width="8" height="60" rx="4" fill="#2a78d6"/>
+<text x="600.8000000000001" y="67.0" font-size="14" font-weight="600" fill="#111827">Switch</text>
+<text x="600.8000000000001" y="88.0" font-size="12" fill="#2a78d6">Filter</text>
+<rect x="851.2" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#ea4b71" stroke-width="2"/>
+<rect x="851.2" y="40.0" width="8" height="60" rx="4" fill="#ea4b71"/>
+<text x="871.2" y="67.0" font-size="14" font-weight="600" fill="#111827">AI Agent</text>
+<text x="871.2" y="88.0" font-size="12" fill="#ea4b71">AI Agent</text>
+<rect x="934.4" y="331.2" width="180" height="60" rx="10" fill="#ffffff" stroke="#dc382d" stroke-width="2"/>
+<rect x="934.4" y="331.2" width="8" height="60" rx="4" fill="#dc382d"/>
+<text x="954.4" y="358.2" font-size="14" font-weight="600" fill="#111827">Redis Chat Memory</text>
+<text x="954.4" y="379.2" font-size="12" fill="#dc382d">Memory</text>
+<rect x="1246.4" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#25a560" stroke-width="2"/>
+<rect x="1246.4" y="40.0" width="8" height="60" rx="4" fill="#25a560"/>
+<text x="1266.4" y="67.0" font-size="14" font-weight="600" fill="#111827">Send Seen</text>
+<text x="1266.4" y="88.0" font-size="12" fill="#25a560">WhatsApp</text>
+<rect x="539.2" y="539.2" width="180" height="60" rx="10" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2"/>
+<rect x="539.2" y="539.2" width="8" height="60" rx="4" fill="#9ca3af"/>
+<text x="559.2" y="566.2" font-size="14" font-weight="600" fill="#6b7280">Groq Chat Model</text>
+<text x="559.2" y="587.2" font-size="12" fill="#9ca3af">Model (unused)</text>
+<rect x="1516.8" y="40.0" width="180" height="60" rx="10" fill="#ffffff" stroke="#25a560" stroke-width="2"/>
+<rect x="1516.8" y="40.0" width="8" height="60" rx="4" fill="#25a560"/>
+<text x="1536.8" y="67.0" font-size="14" font-weight="600" fill="#111827">Send a text message</text>
+<text x="1536.8" y="88.0" font-size="12" fill="#25a560">WhatsApp</text>
+<rect x="705.6" y="331.2" width="180" height="60" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<rect x="705.6" y="331.2" width="8" height="60" rx="4" fill="#0f766e"/>
+<text x="725.6" y="358.2" font-size="14" font-weight="600" fill="#111827">OpenRouter Chat Model</text>
+<text x="725.6" y="379.2" font-size="12" fill="#0f766e">Model</text>
+<text x="40" y="655.2" font-size="12" fill="#6b7280">Rendered from workflows/whatsapp-ai-agent.json with the node positions saved by n8n. Solid: data flow. Dashed: model and memory attached to the agent.</text>
+</svg>

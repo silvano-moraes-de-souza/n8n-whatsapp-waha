@@ -31,6 +31,10 @@ flowchart LR
     R2 --> W --> U
 ```
 
+The workflow as it sits in n8n, drawn from the exported JSON ([`scripts/render_workflow.py`](scripts/render_workflow.py)):
+
+![n8n workflow](docs/workflow.svg)
+
 ## At a glance
 
 | | |
